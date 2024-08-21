@@ -15,5 +15,5 @@
 
    
    - **Excelsa** is the top performing product 
-   - There is ** no seasonality ** on coffee sales
+   - There is ** no seasonality** on coffee sales
      ![Coffee_Orders_Dashboard](images/coffee_seasonality.png)
