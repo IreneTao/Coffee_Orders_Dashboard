@@ -13,8 +13,7 @@
   
 2. The insights gained from the data are as follows:
 
-   
-   - **Excelsa** is the top performing product 
-   - There is **no seasonality** on coffee sales
+- **Excelsa** is the top performing product 
+- There is **no seasonality** on coffee sales
      ![Coffee_Orders_Dashboard](images/coffee_seasonality.png)
-     - 
+- The sum of sales and the average sales of the top 5 customers with loyalty cards and without loyalty cards are pretty much the same. The loyalty card program is **not** effectively increasing sales.
