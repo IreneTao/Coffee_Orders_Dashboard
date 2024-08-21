@@ -1,8 +1,9 @@
 # Coffee_Orders_Dashboard
 
 ## :coffee: Project Overview  
-![Coffee_Orders_Dashboard](images/Coffee_Orders_Dashboard.png)
 1. This project demonstrates the use of PivotTables and PivotCharts to create a dynamic and interactive dashboard for analyzing coffee orders at a glance. The dashboard includes the following key features:
+
+![Coffee_Orders_Dashboard](images/Coffee_Orders_Dashboard.png)
 
 - **Line Chart:** Displays total sales over time, segmented by coffee type.
 - **Bar Chart:** Illustrates sales by country for a comprehensive geographical analysis.
