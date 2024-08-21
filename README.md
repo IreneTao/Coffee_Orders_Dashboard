@@ -9,3 +9,4 @@ This project demonstrates the use of PivotTables and PivotCharts to create a dyn
 - **Top 5 Customers:** A bar chart highlighting the top five customers based on sales.
 - **Interactive Timeline:** Allows manipulation of visuals to explore data trends over specific periods.
 - **Slicers:** Enables filtering by roast type, size, and loyalty card status for customized insights.
+  (./Coffee Orders Dashboard.png)
