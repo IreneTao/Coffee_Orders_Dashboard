@@ -11,5 +11,8 @@
 - **Slicers:** Enables filtering by roast type, size, and loyalty card status for customized insights.
   
 2. The insights gained from the data are as follows:
-   -the top performing product: **Excelsa**
-   -
+
+   
+   - **Excelsa** is the top performing product 
+   - There is ** no seasonality ** on coffee sales
+     ![Coffee_Orders_Dashboard](.images/coffee_seasonality.png)
